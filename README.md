@@ -48,13 +48,6 @@ Facts
 <p><strong>Disclaimer</strong></p>
 <p>This plugin helps you to insert the cookie consent banner script directly to your website. The use of this plugin by itself doesn’t guarantee compliance with legal necessities associated with cookies.</p></div>
 
-**Help Documentation**
-
-To learn more about how Adzapier CMP works, visit our Adzapier Help Center. Also, see the FAQ at the bottom for more information.
-
-**Disclaimer**
-
-This plugin helps you to insert the cookie consent banner script directly to your website. The use of this plugin by itself doesn’t guarantee compliance with legal necessities associated with cookies.
 
 Requirements
 ------------
