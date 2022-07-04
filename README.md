@@ -1,6 +1,5 @@
 Adzapier Cookie Consent Magento 2 Extension
-=====================
-Magento 2 Extension for the [Adzapier Cookie Consent Javascript plugin](https://www.Adzapier.com/cookieconsent).
+===================== 
 
 Facts
 -----
